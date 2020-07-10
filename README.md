@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my profile. I'm a Software Developer who works mainly with JavaScript/TypeScript/Node.js.
+Welcome to my profile. I'm a Software Developer who works mainly with JavaScript/TypeScript, React.js and Node.js.
 
 *PS: I'm looking for a good remote job 😄*
 
