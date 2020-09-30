@@ -9,7 +9,6 @@ Welcome to my profile. I'm a Software Developer. I work mainly with JavaScript/T
 -->
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning Data Structures, Golang and some DevOps.
 - 🤔 I’m looking for help with getting a good job :).
 - 📫 How to reach me: **Twitter:** https://twitter.com/erons_xo **Email:** eronmmer@gmail.com
 - ⚡ Fun fact: I know JavaScript pretty well. 😄
