@@ -8,7 +8,7 @@ Welcome to my profile. I'm a Software Developer. I work mainly with JavaScript/T
 -->
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning Data Structures & Algorithms and how to ace technical interviews.
+- 🌱 I’m currently learning data structures, hard algorithms and how to ace technical interviews.
 - 👯 I’m looking to collaborate on cool projects.
 - 📫 How to reach me: **Email:** eronmmer@gmail.com
 - ⚡ Fun fact: Humans are the only animals that blush.
